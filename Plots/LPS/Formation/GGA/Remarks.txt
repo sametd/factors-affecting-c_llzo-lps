@@ -1,0 +1,23 @@
+Common Values:
+--------------
+mu_s = -4.1272 eV
+
+Li Poor Case:
+-------------
+E_F   =  0.6321 eV
+mu_Li = -4.1600 eV
+Formation energy of e- polaron   (353 e-)  = 1.5423 eV
+Formation energy of p+ polaron   (351 e-)  = 1.0008 eV
+Formation energy of S vacancy    (346 e-)  = 1.0532 eV
+Formation energy of S vacancy +1 (345 e-)  = 1.0532 eV
+Formation energy of S vacancy +2 (344 e-)  = 1.8161 eV
+
+Li Rich Case:
+-------------
+E_F   =  1.4248 eV
+mu_Li = -3.3700 eV
+Formation energy of e- polaron   (353 e-)  = 0.7696 eV
+Formation energy of p+ polaron   (351 e-)  = 1.7734 eV
+Formation energy of S vacancy    (346 e-)  = 1.0532 eV
+Formation energy of S vacancy +1 (345 e-)  = 2.3505 eV
+Formation energy of S vacancy +2 (344 e-)  = 3.3614 eV

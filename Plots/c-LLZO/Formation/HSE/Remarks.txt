@@ -1,0 +1,44 @@
+Common Values:
+--------------
+mu_Li = -1.9577 eV
+mu_O  = -7.1502 eV
+
+Li Poor - O Rich Case:
+----------------------
+E_F                                         =  2.2241 eV
+delta_mu_Li                                 = -2.4242 eV
+delta_mu_O                                  = -0.1061 eV
+Formation energy of O vacancy +2  (1080 e-) =  2.7022 eV
+Formation energy of O vacancy +1  (1081 e-) =  4.1636 eV
+Formation energy of O vacancy     (1082 e-) =  6.6266 eV
+Formation energy of e- polaron    (1082 e-) =  3.4394 eV
+
+Li Rich - O Poor Case:
+----------------------
+E_F                                         =  4.3236 eV
+delta_mu_Li                                 = -0.3242 eV
+delta_mu_O                                  = -4.3061 eV
+Formation energy of O vacancy +2  (1080 e-) =  2.7012 eV
+Formation energy of O vacancy +1  (1081 e-) =  2.0631 eV
+Formation energy of O vacancy     (1082 e-) =  2.4266 eV
+Formation energy of e- polaron    (1082 e-) =  1.3399 eV
+
+Li Poor - O Rich Case DeltaMu Li = 0:
+----------------------
+E_F                                         =  4.6152 eV
+delta_mu_Li                                 =       0 eV
+delta_mu_O                                  = -0.1061 eV
+Formation energy of O vacancy +2  (1080 e-) =  7.4844 eV
+Formation energy of O vacancy +1  (1081 e-) =  6.5547 eV
+Formation energy of O vacancy     (1082 e-) =  6.6266 eV
+Formation energy of e- polaron    (1082 e-) =  1.0483 eV
+
+Li Rich - O Poor Case DeltaMu Li = 0:
+----------------------
+E_F                                         =  4.6472 eV
+delta_mu_Li                                 =       0 eV
+delta_mu_O                                  = -4.3061 eV
+Formation energy of O vacancy +2  (1080 e-) =  3.2844 eV
+Formation energy of O vacancy +1  (1081 e-) =  2.3547 eV
+Formation energy of O vacancy     (1082 e-) =  2.4266 eV
+Formation energy of e- polaron    (1082 e-) =  1.0483 eV
